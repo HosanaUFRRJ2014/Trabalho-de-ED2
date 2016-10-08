@@ -1,0 +1,1 @@
+Os operadores devem verificar se as suas relacoes retornam tuplas com mesmos campos ?? (uniao, inteseccao e diferenca)

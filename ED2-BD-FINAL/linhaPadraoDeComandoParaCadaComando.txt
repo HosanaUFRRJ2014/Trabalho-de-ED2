@@ -1,0 +1,16 @@
+projecao : projecao("campo 1 campo2 ...", relacao(<parametros>))
+-criar indice : indice(<arvoreB ou hash>, <pseudonimo>, <campoChave>, getArquivo(<pseudonimo>))
+-criar arquivo : criararquivo(<pseudonimo>, <diretorio arquivo origem>)
+uniao : uniao(relacao1(<parametros>), relacao2(<paramentros>))
+diferenca : diferenca(relacao1(<parametros>), relacao2(<paramentros>))
+intersecao : intersecao(relacao1(<parametros>), relacao2(<paramentros>))
+selecao : selecao(campo = "valor", relacao(<parametros>))
+-renomeacao : renomeacao("nomeOriginalCampo1 nomeOriginalCampo2", "nomeNovoCampo1, nomeNovoCampo2", relacao(<parametros>))
+
+
+comando help() = lista a sintaxe dos comandos -- feito
+comando listar() = lista os relacoes ja criadas -- feito
+comando listar(<nome relacao>) = lista os campos da relacao -- feito
+
+implementar Tupla.compareTo()
+usar Collections.sort();
