@@ -1,0 +1,5 @@
+id_editora (int)	nome (String)	endereco (String)	telefone (String)
+5	Editora Risada	ALAMEDA ENZO MONTORIL REINALDO, 6035,  SAO PAULO	99981-1436
+6	Editora Universitária	ESTRADA CALEBE DE LIMA OLIVEIRA, 1836, RIO DE JANEIRO	99623-1499
+7	Editora das Aventuras Maravilhosas	RUA MINISTRA MIRELLA DE SOUSA, 8043,  SAO PAULO	2493-1393
+8	Editora Imaginativa	RUA DOUTOR ARTHUR AYRES, 8801,  BRASILIA	3993-1302
